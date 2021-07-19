@@ -1,0 +1,7 @@
+#All files inside the build directory at the root of the repository
+dist/
+
+# Environments
+.env
+
+*.csv
